@@ -1,0 +1,15 @@
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/bin/Debug/net9.0/Consoelleapp
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/bin/Debug/net9.0/Consoelleapp.deps.json
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/bin/Debug/net9.0/Consoelleapp.runtimeconfig.json
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/bin/Debug/net9.0/Consoelleapp.dll
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/bin/Debug/net9.0/Consoelleapp.pdb
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/obj/Debug/net9.0/Consoelleapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/obj/Debug/net9.0/Consoelleapp.AssemblyInfoInputs.cache
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/obj/Debug/net9.0/Consoelleapp.AssemblyInfo.cs
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/obj/Debug/net9.0/Consoelleapp.csproj.CoreCompileInputs.cache
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/obj/Debug/net9.0/Consoelleapp.sourcelink.json
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/obj/Debug/net9.0/Consoelleapp.dll
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/obj/Debug/net9.0/refint/Consoelleapp.dll
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/obj/Debug/net9.0/Consoelleapp.pdb
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/obj/Debug/net9.0/Consoelleapp.genruntimeconfig.cache
+/Users/johndoe/Desktop/Consoelleapp/Consoelleapp/obj/Debug/net9.0/ref/Consoelleapp.dll

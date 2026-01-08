@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Consoelleapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e68acdb5c7c6a164aa7d2fde68e621a1987b4df4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Consoelleapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Consoelleapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
